@@ -1,0 +1,9 @@
+.error {
+  background-color: indianred;
+}
+
+form em {
+  float: right;
+  color: indianred;
+  padding-left: 10px;
+}

@@ -1,0 +1,9 @@
+div em {
+  color: indianred;
+  float: right;
+  padding-left: 10px;
+}
+
+.error {
+  background-color: indianred;
+}
